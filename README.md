@@ -8,8 +8,8 @@ agendanuitdebout@protonmail.com
 et le mot de passe :
 motdepasse
 
-Pour modifier ce texte-ci, cliquer sur le fichier Readme.md
+Pour modifier ce texte-ci, cliquer sur "Readme.md" dans la liste des fichiers
 ![votre navigateur n'affiche pas l'image](https://raw.githubusercontent.com/AgendaDebout/modeles/master/R%C3%A9union_OpenAgendaNuitDebout.jpg)
 
-Texte collaboratif (Pad) de l'Amicale de l'OpenAgenda Nuit Debout
+Texte collaboratif (Pad) de l'Amicale de l'OpenAgenda Nuit Debout :
 https://pad.scryk.net/s/S1mpuNSul
